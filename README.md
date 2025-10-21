@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Ahad Shaheen</h1>
-<h3 align="center">Cyber Security Student | Software Developer | Future Cyber Specialist</h3>
+<h3 align="center">Cyber Security Student | IT & Programming Enthusiast | Future Cyber Specialist</h3>
 
 ---
 
